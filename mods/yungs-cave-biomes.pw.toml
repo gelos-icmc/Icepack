@@ -1,0 +1,13 @@
+name = "YUNG's Cave Biomes"
+filename = "YungsCaveBiomes-1.20.1-Forge-2.0.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/cs7iGVq1/versions/TxgNHPVJ/YungsCaveBiomes-1.20.1-Forge-2.0.1.jar"
+hash-format = "sha512"
+hash = "30fbf5b346bb282ed4b7848c3035ac58bf481ce3abbdd1b25671bcacd2df9e75bc3fe50d0614fd8aef9990c7887bb6f99ec7715b072ce0cc9ab9e77137e6aaee"
+
+[update]
+[update.modrinth]
+mod-id = "cs7iGVq1"
+version = "TxgNHPVJ"

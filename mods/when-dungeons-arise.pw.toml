@@ -1,0 +1,13 @@
+name = "When Dungeons Arise"
+filename = "DungeonsArise-1.20.1-2.1.57-release.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/8DfbfASn/versions/wiCQJUDT/DungeonsArise-1.20.1-2.1.57-release.jar"
+hash-format = "sha512"
+hash = "0719500250215dad3ed9dd4976f125bf9b097a286cbd71b9efa92571077b7a2acd063810e666a8ea8b33fe80bfb1eee7b515f0ab768f35e4dc87934bc224b3ed"
+
+[update]
+[update.modrinth]
+mod-id = "8DfbfASn"
+version = "wiCQJUDT"

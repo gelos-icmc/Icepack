@@ -1,0 +1,13 @@
+name = "Ars Artifice"
+filename = "ars_artifice-1.20.1-2.0.4.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/kMpXC38Q/versions/BdAcgaP9/ars_artifice-1.20.1-2.0.4.jar"
+hash-format = "sha512"
+hash = "0a56464b1677a3f168a5470fd1a7f5261f2211596ff1ea3a4376b9c5d700cfa6b27d1c5acd42d763444499389e7bc48bc5a7e59e322c4e6a550a4ec28de95ac9"
+
+[update]
+[update.modrinth]
+mod-id = "kMpXC38Q"
+version = "BdAcgaP9"

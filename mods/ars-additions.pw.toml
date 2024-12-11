@@ -1,0 +1,13 @@
+name = "Ars Additions"
+filename = "ars_additions-1.20.1-1.6.7.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/GYK6Gk8R/versions/309LIQ2b/ars_additions-1.20.1-1.6.7.jar"
+hash-format = "sha512"
+hash = "6115833533b278ee663c23f2c4be0bdfb59bff4eccc2d1f713464fdc2868b9c69e0c4b9e057152b7ea32942ca4351ac5e46cf55282d1caeb3b7cc8196b132317"
+
+[update]
+[update.modrinth]
+mod-id = "GYK6Gk8R"
+version = "309LIQ2b"
