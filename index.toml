@@ -359,8 +359,3 @@ metafile = true
 file = "mods/yungs-cave-biomes.pw.toml"
 hash = "61cddea3f179df8c4195bb21f81a2f709f9a03f1dd5cbc09d8da112dedfc87b0"
 metafile = true
-
-[[files]]
-file = "mods/yungs-extras.pw.toml"
-hash = "1b894e0dc24efe4b71aefd238733859c3058b65df78d63a168a021acfb0306e2"
-metafile = true
