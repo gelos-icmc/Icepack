@@ -3,11 +3,11 @@ filename = "JustEnoughProfessions-forge-1.20.1-3.0.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/kB56GtWA/versions/ANKVJC3T/JustEnoughProfessions-forge-1.20.1-3.0.1.jar"
-hash-format = "sha512"
-hash = "b1637b0cd3cf8062cada8a13e7d49ed15b7a2ff6c1502c8ba044c2c7cad3c07f1312d50f997405da658695b0e7ddcb916074b5c2da23db36b5391ae88a94d80e"
+hash-format = "sha1"
+hash = "19dc0c1f9f0a97fae7037f271651300b6850fb92"
+mode = "metadata:curseforge"
 
 [update]
-[update.modrinth]
-mod-id = "kB56GtWA"
-version = "ANKVJC3T"
+[update.curseforge]
+file-id = 4587024
+project-id = 417645
