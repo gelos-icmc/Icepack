@@ -1,6 +1,18 @@
 hash-format = "sha256"
 
 [[files]]
+file = "README.md"
+hash = "f87e90dc6f8b12e860590009e4fdc0fb6cf5173f097bd1b41a475fd6d8e8fb6b"
+
+[[files]]
+file = "flake.lock"
+hash = "b855b71a811d528bd4a94bc9b9c7d6845450fe65087e2e66b728099c1ad81ef2"
+
+[[files]]
+file = "flake.nix"
+hash = "bf993d866a4d2b1555c101cae3bd92f84ed77a5176444577f2fa4fcbec55dd1a"
+
+[[files]]
 file = "mods/aether.pw.toml"
 hash = "3fa99497f4c394f57de56e51f504f16109d899fe1fe38542641355e0793a2e37"
 metafile = true
@@ -13,6 +25,11 @@ metafile = true
 [[files]]
 file = "mods/applied-energistics-2.pw.toml"
 hash = "eea9aa9d39eb9fe6ff7abca232b5d1be790037858f55360babbdc8f122197d26"
+metafile = true
+
+[[files]]
+file = "mods/architectury-api.pw.toml"
+hash = "fa34a3117af7f8ed553ec563a7c90c1d6462184c7df5b837c831cb482c6ae582"
 metafile = true
 
 [[files]]
@@ -42,7 +59,7 @@ metafile = true
 
 [[files]]
 file = "mods/caelus.pw.toml"
-hash = "5155ae1ca2c606df2001422a48cd167d2449160d5fe12a302753dee69af7fe92"
+hash = "eaa144428b42dedd12beea31db366ca686a621c9945d45a35494dca25846fc63"
 metafile = true
 
 [[files]]
@@ -206,6 +223,11 @@ hash = "7428d76392d1c976db8ff731d2d889c88ddf515e6813712f5b58b490d427f8f1"
 metafile = true
 
 [[files]]
+file = "mods/mermod.pw.toml"
+hash = "76f15dc8a114a9d9386a5ac3249ca578c0a2497f2378e7791f810c89361c9fcd"
+metafile = true
+
+[[files]]
 file = "mods/natures-compass.pw.toml"
 hash = "464e83a35e22e9bbdf7be38cf7a7a98c39462a0a50b01d2a1355bcae9167ea7a"
 metafile = true
@@ -213,6 +235,11 @@ metafile = true
 [[files]]
 file = "mods/no-chat-reports.pw.toml"
 hash = "1d602996f39fb6103a5b968f50ec06800db7125b145570474c9c10e6dcd0c68e"
+metafile = true
+
+[[files]]
+file = "mods/origins-forge.pw.toml"
+hash = "fe6dc975cf3d5055c054f5dcee0cf4c2a0e0ff61cb681413da29d7a6abf482b5"
 metafile = true
 
 [[files]]
