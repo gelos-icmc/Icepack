@@ -1,13 +1,13 @@
 name = "Icepack"
-author = "Vinicius"
+author = "Vinicius Santos"
 version = "1.0.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "19c22f6b015b2878ceaf539d92bd735bef85cb35b9d9251c97f1979cd54a8fd5"
+hash = "1f9ece5bc24aef457fd1bc0a5c80fb7fe6946d1b4a82f2bea70649cecae76d07"
 
 [versions]
+forge = "47.3.1"
 minecraft = "1.20.1"
-neoforge = "47.1.106"
