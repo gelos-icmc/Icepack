@@ -1,0 +1,13 @@
+name = "XNet"
+filename = "xnet-1.20-6.1.6.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "9e0f612a08e1211010cbef71b95846989042fe2c"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5712546
+project-id = 260912
