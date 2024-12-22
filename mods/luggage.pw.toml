@@ -1,0 +1,13 @@
+name = "Luggage"
+filename = "luggage-1.20-1.6.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "14e358abc4a38b5c83fd2b87d28da284bb1eb02b"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4590608
+project-id = 594709
