@@ -217,6 +217,11 @@ hash = "2a4f28e582d8bb538efaeb0faa5a8592f44b2e90dd192af58852f45aa7be8be8"
 metafile = true
 
 [[files]]
+file = "mods/ftb-backups-2.pw.toml"
+hash = "b3693e7a5647d4e28fc30ad3e85193c668a98a410dc3f425f19561cfea68957f"
+metafile = true
+
+[[files]]
 file = "mods/ftb-library-forge.pw.toml"
 hash = "6e12f6c7549e2a4029c61d6849b187d6ec26c286ac216ad2db64178c0f495615"
 metafile = true
@@ -364,6 +369,11 @@ metafile = true
 [[files]]
 file = "mods/playeranimator.pw.toml"
 hash = "b52622122c19a3894e62fc5506d7c3332d202504fd406d6718be646f979feb40"
+metafile = true
+
+[[files]]
+file = "mods/polylib.pw.toml"
+hash = "947d5f3b9213360b68e9b65a8d2d5111939e82e248cf61eb02137f119c6eaeb6"
 metafile = true
 
 [[files]]
