@@ -17,6 +17,11 @@ file = "flake.nix"
 hash = "bf993d866a4d2b1555c101cae3bd92f84ed77a5176444577f2fa4fcbec55dd1a"
 
 [[files]]
+file = "mods/aeinfinitybooster.pw.toml"
+hash = "d95d736d272530576a042e3ee4d11c5ecfe9f03d509219f0babe867ed14597b1"
+metafile = true
+
+[[files]]
 file = "mods/aether.pw.toml"
 hash = "3fa99497f4c394f57de56e51f504f16109d899fe1fe38542641355e0793a2e37"
 metafile = true
@@ -114,6 +119,11 @@ metafile = true
 [[files]]
 file = "mods/clumps.pw.toml"
 hash = "e3173aaa4e9078ad7ace2b9ef43ce15ce9919c0b566d8830cea87264f92b3a6a"
+metafile = true
+
+[[files]]
+file = "mods/configured.pw.toml"
+hash = "c1bdeff356cd2ac164e2c0e6d0ceeda234db9774c2df44fb9f0e71d3960cc3f1"
 metafile = true
 
 [[files]]
@@ -287,6 +297,16 @@ hash = "33c914607f09bca18480e8e56ee2963808a1bd6d195c7c3f52f1f7a7397291f1"
 metafile = true
 
 [[files]]
+file = "mods/industrial-foregoing.pw.toml"
+hash = "01c1739b0a62eaa9326444b58b56222ca8d66bf3ccb677e9ecfa54baa8c98a13"
+metafile = true
+
+[[files]]
+file = "mods/inventory-tweaks-refoxed.pw.toml"
+hash = "b69fb92fec98dc393e59fb63ad1533d8d66c230a1ddec263309dece9ae884ee3"
+metafile = true
+
+[[files]]
 file = "mods/iron-chests.pw.toml"
 hash = "4aba12c2a18205fe6d25d1af817ee8c0baa580a74048cb30c659f6be66f31d2e"
 metafile = true
@@ -353,7 +373,7 @@ metafile = true
 
 [[files]]
 file = "mods/mcjtylib.pw.toml"
-hash = "7428d76392d1c976db8ff731d2d889c88ddf515e6813712f5b58b490d427f8f1"
+hash = "34fa06879563b53a17312870c64150fe42f1446f823e7b7836cb63de342f00c7"
 metafile = true
 
 [[files]]
@@ -384,6 +404,11 @@ metafile = true
 [[files]]
 file = "mods/modonomicon.pw.toml"
 hash = "d3a4e2a13a72c8ebe492df7601b431dd5bf7c5d141124eaab7c41399cde3f632"
+metafile = true
+
+[[files]]
+file = "mods/mouse-tweaks.pw.toml"
+hash = "e72f73611904e14d915418f0e3c6cb483cdc600e211375c2eceb393fec5b80f1"
 metafile = true
 
 [[files]]
@@ -442,8 +467,28 @@ hash = "24660c4b368b47a6f6ad3aee54b044b0036ec5c1c63bba2031124a78949d13ca"
 metafile = true
 
 [[files]]
+file = "mods/redstone-pen.pw.toml"
+hash = "52e3e90b2af5df1504ac22354c28b67555b185384963465abc0c79605e5180e7"
+metafile = true
+
+[[files]]
 file = "mods/rftools-base.pw.toml"
-hash = "ca582093870dc726c1ce366843b8aee8ee761550cb4daed58d6f5ac9be4af956"
+hash = "39e7b84b22c396048362c54cd80ba9c3495e4ac1fd71b72fa3d52ca73cba1333"
+metafile = true
+
+[[files]]
+file = "mods/rftools-builder.pw.toml"
+hash = "f7b999fc9b7f559699fe716cfc98b6edd8e37098e2d1c9fbf56f0755575dbba3"
+metafile = true
+
+[[files]]
+file = "mods/rftools-dimensions.pw.toml"
+hash = "f9e9ff6ded995ceb9819295f1803ac3b06efede1b66633d59af30ed1b219abe7"
+metafile = true
+
+[[files]]
+file = "mods/rftools-utility.pw.toml"
+hash = "98073ca8b8b78f57098d06291c76595f7dc529e0a980cb3fff0d77b561ee0375"
 metafile = true
 
 [[files]]
@@ -499,6 +544,11 @@ metafile = true
 [[files]]
 file = "mods/time-in-a-bottle-universal.pw.toml"
 hash = "0a12d53bc09bb474181e4fe5d3ea00d2905a076036987f3262fccafb194d7f74"
+metafile = true
+
+[[files]]
+file = "mods/titanium.pw.toml"
+hash = "0b65cd1a439326b6a81f453773722893e4eef1c065859e7a0f2935952f6e9cb3"
 metafile = true
 
 [[files]]
