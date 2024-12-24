@@ -332,6 +332,16 @@ hash = "7428d76392d1c976db8ff731d2d889c88ddf515e6813712f5b58b490d427f8f1"
 metafile = true
 
 [[files]]
+file = "mods/mekanism-generators.pw.toml"
+hash = "19afec92ca63d9dfbe9cecac8e33364a6a193d655f6341cb693b9a933880520a"
+metafile = true
+
+[[files]]
+file = "mods/mekanism-tools.pw.toml"
+hash = "0eba6b0ab8dedb146186cdf7b42db880857f299c97e20c445984c7c57c3ae63c"
+metafile = true
+
+[[files]]
 file = "mods/mekanism.pw.toml"
 hash = "c3643d39bb5b885d08bcfc3354525f42dca44e8975c619ef67efc7854ab51f0c"
 metafile = true
@@ -424,6 +434,11 @@ metafile = true
 [[files]]
 file = "mods/storage-drawers.pw.toml"
 hash = "eb7fb878f669cc17a22d19902fe96cdcfe541a9cf7d03eb7244fc11e13713b61"
+metafile = true
+
+[[files]]
+file = "mods/structure-compass.pw.toml"
+hash = "b9ad26c80702e106bc562b4520cea4a279f89513327bc36b5819ecb05cc75e1c"
 metafile = true
 
 [[files]]
