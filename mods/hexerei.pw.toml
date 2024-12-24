@@ -3,11 +3,11 @@ filename = "hexerei-0.4.2.2.jar"
 side = "both"
 
 [download]
+url = "https://cdn.modrinth.com/data/IQSOHVhI/versions/1DZLciOu/hexerei-0.4.2.2.jar"
 hash-format = "sha1"
 hash = "b8ae064ccfbdefa12718f97ae80e220ff6801ed5"
-mode = "metadata:curseforge"
 
 [update]
-[update.curseforge]
-file-id = 5997725
-project-id = 548599
+[update.modrinth]
+mod-id = "IQSOHVhI"
+version = "1DZLciOu"

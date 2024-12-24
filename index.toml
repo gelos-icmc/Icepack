@@ -288,7 +288,7 @@ metafile = true
 
 [[files]]
 file = "mods/hexerei.pw.toml"
-hash = "fc9205bf18c029c87ae5e9669acdd2a961234850f02788f4f92ffce935d98cc7"
+hash = "928da64bd144be538ea63be18270ef6553edbbfefa9055b49b4a515f8775c79c"
 metafile = true
 
 [[files]]
