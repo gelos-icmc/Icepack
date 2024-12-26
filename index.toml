@@ -13,6 +13,18 @@ file = "README.md"
 hash = "f87e90dc6f8b12e860590009e4fdc0fb6cf5173f097bd1b41a475fd6d8e8fb6b"
 
 [[files]]
+file = "config/openloader/data/merling-notail/data/merling_notail/origins/merling_notail.json"
+hash = "3461831bb793ee5bba026cee0bd729c677c46afff2b3f07d954a881feafa8b42"
+
+[[files]]
+file = "config/openloader/data/merling-notail/data/origins/origin_layers/origin.json"
+hash = "40fc9dd4354810e6799cfeca5032e05800e56cdbe64f2780de01117c380ee827"
+
+[[files]]
+file = "config/openloader/data/merling-notail/pack.mcmeta"
+hash = "4e8587eb80b65eea99d4a024455480e1f7167edfe13dfb34bc4bdab2fb782051"
+
+[[files]]
 file = "flake.lock"
 hash = "b855b71a811d528bd4a94bc9b9c7d6845450fe65087e2e66b728099c1ad81ef2"
 
