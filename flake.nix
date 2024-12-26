@@ -6,17 +6,14 @@
     utils.url = "github:numtide/flake-utils";
   };
 
-  outputs = { self, nixpkgs, utils }: utils.lib.eachDefaultSystem (system:
+  outputs = {nixpkgs, utils, ... }: utils.lib.eachDefaultSystem (system:
     let
-      inherit (builtins) attrValues;
       pkgs = import nixpkgs { inherit system; };
-    in
-    rec {
+    in {
       devShells = rec {
         modpack = pkgs.mkShell {
           name = "modpack";
           nativeBuildInputs = with pkgs; [ packwiz unzip zip yq zsh ];
-          shellHook = "zsh";
         };
         default = modpack;
       };
