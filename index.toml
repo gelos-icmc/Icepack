@@ -456,6 +456,11 @@ hash = "f6883dbacae2ced2bd6218b2ab1d7a438edbfe772cab9396c7fe2fecc43234d2"
 metafile = true
 
 [[files]]
+file = "mods/open-loader.pw.toml"
+hash = "0f2c36c94055868c6344228873a1c05edb880dc92eda3609d10353e2f10f8886"
+metafile = true
+
+[[files]]
 file = "mods/origins-forge.pw.toml"
 hash = "fe6dc975cf3d5055c054f5dcee0cf4c2a0e0ff61cb681413da29d7a6abf482b5"
 metafile = true
