@@ -1,0 +1,6 @@
+.git
+.jj
+result
+.direnv
+*.zip
+*.mrpack

@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = ".envrc"
+hash = "1d26c74fd25a4c3dbb09e029fc609588da499fd4af2a41c88f6316c7f8c54cf1"
+
+[[files]]
 file = "LICENSE.txt"
 hash = "54ba565da372bc2bfc3438ef99a32db2bd37532613bd01e4dc3eeb5f084edffa"
 
@@ -14,7 +18,7 @@ hash = "b855b71a811d528bd4a94bc9b9c7d6845450fe65087e2e66b728099c1ad81ef2"
 
 [[files]]
 file = "flake.nix"
-hash = "bf993d866a4d2b1555c101cae3bd92f84ed77a5176444577f2fa4fcbec55dd1a"
+hash = "f2b00d1f4052affe3813864113dcf550ec25a041de591a2283b0712f11dbf572"
 
 [[files]]
 file = "mods/ae2.pw.toml"
