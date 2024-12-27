@@ -196,11 +196,6 @@ hash = "d8fde87d322c7d8e841658090d41c33120c72b4e6724af94a9fd3cc41603234c"
 metafile = true
 
 [[files]]
-file = "mods/cucumber.pw.toml"
-hash = "61ef418c61be9d970ae54611991f1ae580a22d20de0829305db74dc0ccc37122"
-metafile = true
-
-[[files]]
 file = "mods/curios.pw.toml"
 hash = "e5c70c97f5c25e8cc14838d78739934ec963cfa70373c018eb9eb96f1685d84c"
 metafile = true
@@ -443,16 +438,6 @@ metafile = true
 [[files]]
 file = "mods/mouse-tweaks.pw.toml"
 hash = "e72f73611904e14d915418f0e3c6cb483cdc600e211375c2eceb393fec5b80f1"
-metafile = true
-
-[[files]]
-file = "mods/mystical-agradditions.pw.toml"
-hash = "b10c8dc6bc71a1e80d6db0c519ebd5639b805f2415e518c79cda77c55aa2fae0"
-metafile = true
-
-[[files]]
-file = "mods/mystical-agriculture.pw.toml"
-hash = "aaf4f39631e2f684ec1189f5372d959c90c2778626d8349fa15d5feabb480238"
 metafile = true
 
 [[files]]
