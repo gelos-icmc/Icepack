@@ -146,6 +146,11 @@ hash = "c1bdeff356cd2ac164e2c0e6d0ceeda234db9774c2df44fb9f0e71d3960cc3f1"
 metafile = true
 
 [[files]]
+file = "mods/controlling.pw.toml"
+hash = "2a50d21837bba88e3c9490c6bb8e0a9b44b052645d5c1481b48a060439c20a3c"
+metafile = true
+
+[[files]]
 file = "mods/cooking-for-blockheads.pw.toml"
 hash = "d5b2b5da94578330450196091933b125b846e927e9b86a4ae46f4682a67eaa5d"
 metafile = true
@@ -183,6 +188,11 @@ metafile = true
 [[files]]
 file = "mods/croptopia.pw.toml"
 hash = "d8fde87d322c7d8e841658090d41c33120c72b4e6724af94a9fd3cc41603234c"
+metafile = true
+
+[[files]]
+file = "mods/cucumber.pw.toml"
+hash = "61ef418c61be9d970ae54611991f1ae580a22d20de0829305db74dc0ccc37122"
 metafile = true
 
 [[files]]
@@ -431,6 +441,16 @@ hash = "e72f73611904e14d915418f0e3c6cb483cdc600e211375c2eceb393fec5b80f1"
 metafile = true
 
 [[files]]
+file = "mods/mystical-agradditions.pw.toml"
+hash = "b10c8dc6bc71a1e80d6db0c519ebd5639b805f2415e518c79cda77c55aa2fae0"
+metafile = true
+
+[[files]]
+file = "mods/mystical-agriculture.pw.toml"
+hash = "aaf4f39631e2f684ec1189f5372d959c90c2778626d8349fa15d5feabb480238"
+metafile = true
+
+[[files]]
 file = "mods/natures-compass.pw.toml"
 hash = "464e83a35e22e9bbdf7be38cf7a7a98c39462a0a50b01d2a1355bcae9167ea7a"
 metafile = true
@@ -523,6 +543,11 @@ metafile = true
 [[files]]
 file = "mods/ruins.pw.toml"
 hash = "c3bcf5fcc1e581806311fbac1ebfaaf5ca441866025c584770d92660f6f2e3cb"
+metafile = true
+
+[[files]]
+file = "mods/searchables.pw.toml"
+hash = "35905f57cdb21a2aaa26345f2fabe3137ee2db6ee3bb2149cea206611b11ef69"
 metafile = true
 
 [[files]]
