@@ -116,6 +116,11 @@ hash = "eaa144428b42dedd12beea31db366ca686a621c9945d45a35494dca25846fc63"
 metafile = true
 
 [[files]]
+file = "mods/capes.pw.toml"
+hash = "7202ebfb8fb84656533749a681d5e7bc033628f94969e603def147537c454faa"
+metafile = true
+
+[[files]]
 file = "mods/cc-tweaked.pw.toml"
 hash = "ca9bf272ff59fea86b50d9a6f6728a9a5b1b5079b538ac5d6e17e2d6fa66780d"
 metafile = true
@@ -382,7 +387,7 @@ metafile = true
 
 [[files]]
 file = "mods/kotlin-for-forge.pw.toml"
-hash = "40026875ee9b7d25a4ece48faa2b70a338100e87a689d5a8d4ba1ee608b878f6"
+hash = "82ffc26ad624cdd846cbbeb99ed40ef44229ec7006a7ae7e8caa8df6409c20db"
 metafile = true
 
 [[files]]
