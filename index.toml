@@ -146,6 +146,11 @@ hash = "c1bdeff356cd2ac164e2c0e6d0ceeda234db9774c2df44fb9f0e71d3960cc3f1"
 metafile = true
 
 [[files]]
+file = "mods/controlling.pw.toml"
+hash = "2a50d21837bba88e3c9490c6bb8e0a9b44b052645d5c1481b48a060439c20a3c"
+metafile = true
+
+[[files]]
 file = "mods/cooking-for-blockheads.pw.toml"
 hash = "d5b2b5da94578330450196091933b125b846e927e9b86a4ae46f4682a67eaa5d"
 metafile = true
@@ -523,6 +528,11 @@ metafile = true
 [[files]]
 file = "mods/ruins.pw.toml"
 hash = "c3bcf5fcc1e581806311fbac1ebfaaf5ca441866025c584770d92660f6f2e3cb"
+metafile = true
+
+[[files]]
+file = "mods/searchables.pw.toml"
+hash = "35905f57cdb21a2aaa26345f2fabe3137ee2db6ee3bb2149cea206611b11ef69"
 metafile = true
 
 [[files]]
