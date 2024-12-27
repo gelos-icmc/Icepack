@@ -1,10 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = ".envrc"
-hash = "1d26c74fd25a4c3dbb09e029fc609588da499fd4af2a41c88f6316c7f8c54cf1"
-
-[[files]]
 file = "LICENSE.txt"
 hash = "54ba565da372bc2bfc3438ef99a32db2bd37532613bd01e4dc3eeb5f084edffa"
 
@@ -23,14 +19,6 @@ hash = "40fc9dd4354810e6799cfeca5032e05800e56cdbe64f2780de01117c380ee827"
 [[files]]
 file = "config/openloader/data/merling-notail/pack.mcmeta"
 hash = "4e8587eb80b65eea99d4a024455480e1f7167edfe13dfb34bc4bdab2fb782051"
-
-[[files]]
-file = "flake.lock"
-hash = "b855b71a811d528bd4a94bc9b9c7d6845450fe65087e2e66b728099c1ad81ef2"
-
-[[files]]
-file = "flake.nix"
-hash = "f2b00d1f4052affe3813864113dcf550ec25a041de591a2283b0712f11dbf572"
 
 [[files]]
 file = "mods/ae2.pw.toml"

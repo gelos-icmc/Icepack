@@ -4,3 +4,7 @@ result
 .direnv
 *.zip
 *.mrpack
+
+.envrc
+flake.nix
+flake.lock
