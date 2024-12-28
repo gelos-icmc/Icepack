@@ -10,11 +10,19 @@ hash = "f87e90dc6f8b12e860590009e4fdc0fb6cf5173f097bd1b41a475fd6d8e8fb6b"
 
 [[files]]
 file = "config/openloader/data/merling-tweaks/data/merling_tweaks/origins/merling_notail.json"
-hash = "3461831bb793ee5bba026cee0bd729c677c46afff2b3f07d954a881feafa8b42"
+hash = "c1535d56aa0a6ed8f3d3d18b59047ba4d4d8e8f050e0482eafc6cc6ee02848a3"
+
+[[files]]
+file = "config/openloader/data/merling-tweaks/data/merling_tweaks/powers/no_drown.json"
+hash = "f8c2e4e943fe59a76dced38bf39632a612cfb91ff5cd926d37e352cda418aa3a"
 
 [[files]]
 file = "config/openloader/data/merling-tweaks/data/origins/origin_layers/origin.json"
 hash = "e28e09982ddc0a7beef260ac2f72e3b29676ad105fa9d49aa592a12dca7d4600"
+
+[[files]]
+file = "config/openloader/data/merling-tweaks/data/origins/origins/merling.json"
+hash = "b4d7d2817f9015cc0ffd5a8bc65d6ad77874b1a615d4b25dbbe5dacc446f45d2"
 
 [[files]]
 file = "config/openloader/data/merling-tweaks/data/origins/powers/water_vision.json"
@@ -22,7 +30,7 @@ hash = "f7eefc1cf5881cb989a81b345e38b02f56394978ab88df55898e0a67223815cc"
 
 [[files]]
 file = "config/openloader/data/merling-tweaks/pack.mcmeta"
-hash = "a2245e0e9a6a8b7d8d161909b0e2d05eb1fb69824924d4697e53d3809dbe583c"
+hash = "541cceba021367cc1ae4f31cdbc7cc3bfd74cf521b763a44e412a9f50d1dc5c2"
 
 [[files]]
 file = "mods/ae2.pw.toml"
