@@ -511,6 +511,11 @@ hash = "52e3e90b2af5df1504ac22354c28b67555b185384963465abc0c79605e5180e7"
 metafile = true
 
 [[files]]
+file = "mods/reliquary-reincarnations.pw.toml"
+hash = "8921d23706ed1ab2bae18973f3c223d69826951a1f40719658ca0008b6f15e08"
+metafile = true
+
+[[files]]
 file = "mods/rftools-base.pw.toml"
 hash = "39e7b84b22c396048362c54cd80ba9c3495e4ac1fd71b72fa3d52ca73cba1333"
 metafile = true
