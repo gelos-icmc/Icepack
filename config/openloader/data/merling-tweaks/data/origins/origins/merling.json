@@ -10,7 +10,8 @@
     "origins:conduit_power_on_land",
     "origins:air_from_potions",
     "mermod:fabulous_fins",
-    "merling_tweaks:no_drown"
+    "merling_tweaks:no_drown",
+    "merling_tweaks:drink_from_emperor_chalice"
   ],
   "icon": {
     "item": "minecraft:cod"

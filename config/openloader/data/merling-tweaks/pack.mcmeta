@@ -1,6 +1,6 @@
 {
     "pack": {
         "pack_format": 15,
-        "description": "Pequenas mudanças no merling. Adiciona uma origem idêntica mas sem cauda, corrige um bug de night vision, impede dano de afogamento."
+        "description": "Pequenas mudanças no merling. Adiciona uma origem idêntica mas sem cauda, corrige um bug de night vision, impede dano de afogamento, e permite recuperar ar ao beber do cálice do reliquary."
     }
 }
