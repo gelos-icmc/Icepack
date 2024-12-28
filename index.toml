@@ -9,24 +9,32 @@ file = "README.md"
 hash = "f87e90dc6f8b12e860590009e4fdc0fb6cf5173f097bd1b41a475fd6d8e8fb6b"
 
 [[files]]
-file = "config/openloader/data/merling-nightvision-fix/data/origins/powers/water_vision.json"
+file = "config/openloader/data/merling-tweaks/data/merling_tweaks/origins/merling_notail.json"
+hash = "20a814170cb5b287d78f1f3d1f8c4321f13d84d2e517ee251386411bef39840f"
+
+[[files]]
+file = "config/openloader/data/merling-tweaks/data/merling_tweaks/powers/drink_from_emperor_chalice.json"
+hash = "08e91d2a9994d3b8874067b0c35125c1c9efa666fc41aeac33a9c5b681992ad1"
+
+[[files]]
+file = "config/openloader/data/merling-tweaks/data/merling_tweaks/powers/no_drown.json"
+hash = "f8c2e4e943fe59a76dced38bf39632a612cfb91ff5cd926d37e352cda418aa3a"
+
+[[files]]
+file = "config/openloader/data/merling-tweaks/data/origins/origin_layers/origin.json"
+hash = "e28e09982ddc0a7beef260ac2f72e3b29676ad105fa9d49aa592a12dca7d4600"
+
+[[files]]
+file = "config/openloader/data/merling-tweaks/data/origins/origins/merling.json"
+hash = "7d6afb431faeaec31741671ea53dce9583ac6a1fc23272b83bc9c13913b93ea1"
+
+[[files]]
+file = "config/openloader/data/merling-tweaks/data/origins/powers/water_vision.json"
 hash = "f7eefc1cf5881cb989a81b345e38b02f56394978ab88df55898e0a67223815cc"
 
 [[files]]
-file = "config/openloader/data/merling-nightvision-fix/pack.mcmeta"
-hash = "8fdb62a60df3e9b6f1f7b2fdb0fc1d0faaf55331eeceffd957654f6190b5c640"
-
-[[files]]
-file = "config/openloader/data/merling-notail/data/merling_notail/origins/merling_notail.json"
-hash = "3461831bb793ee5bba026cee0bd729c677c46afff2b3f07d954a881feafa8b42"
-
-[[files]]
-file = "config/openloader/data/merling-notail/data/origins/origin_layers/origin.json"
-hash = "40fc9dd4354810e6799cfeca5032e05800e56cdbe64f2780de01117c380ee827"
-
-[[files]]
-file = "config/openloader/data/merling-notail/pack.mcmeta"
-hash = "4e8587eb80b65eea99d4a024455480e1f7167edfe13dfb34bc4bdab2fb782051"
+file = "config/openloader/data/merling-tweaks/pack.mcmeta"
+hash = "7469e41501c9a8e31fc3b55a369db0197b2137bd676d36da4df89c856cd604e1"
 
 [[files]]
 file = "mods/ae2.pw.toml"

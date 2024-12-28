@@ -1,0 +1,30 @@
+{
+  "type": "origins:action_on_item_use",
+  "hidden": true,
+  "item_condition": {
+    "type": "origins:ingredient",
+    "ingredient": {
+      "item": "reliquary:emperor_chalice"
+    }
+  },
+  "entity_action": {
+    "type": "origins:and",
+    "actions": [
+      {
+        "type": "origins:gain_air",
+        "value": 300
+      },
+      {
+        "type": "origins:extinguish"
+      },
+      {
+        "type": "origins:apply_effect",
+        "effect": {
+          "effect": "minecraft:water_breathing",
+          "duration": 600,
+          "show_particles": false
+        }
+      }
+    ]
+  }
+}
