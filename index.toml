@@ -9,6 +9,14 @@ file = "README.md"
 hash = "f87e90dc6f8b12e860590009e4fdc0fb6cf5173f097bd1b41a475fd6d8e8fb6b"
 
 [[files]]
+file = "config/openloader/data/merling-nightvision-fix/data/origins/powers/water_vision.json"
+hash = "f7eefc1cf5881cb989a81b345e38b02f56394978ab88df55898e0a67223815cc"
+
+[[files]]
+file = "config/openloader/data/merling-nightvision-fix/pack.mcmeta"
+hash = "8fdb62a60df3e9b6f1f7b2fdb0fc1d0faaf55331eeceffd957654f6190b5c640"
+
+[[files]]
 file = "config/openloader/data/merling-notail/data/merling_notail/origins/merling_notail.json"
 hash = "3461831bb793ee5bba026cee0bd729c677c46afff2b3f07d954a881feafa8b42"
 
